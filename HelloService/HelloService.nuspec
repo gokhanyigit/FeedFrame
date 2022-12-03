@@ -13,6 +13,6 @@
     <tags>Hello Service</tags>
   </metadata>
     <files>
-    <file src="bin\Release\HelloService.dll" exclude="bin\Release\*.dll.config" target="lib\net461\HelloService.dll" />
+    <file src="bin\Release\HelloService.dll" exclude="bin\Release\*.dll.config" target="lib\net70\HelloService.dll" />
   </files>
 </package>
