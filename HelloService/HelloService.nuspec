@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HelloService</id>
+    <version>$version$</version>
+    <title>HelloService</title>
+    <authors>Gökhan Yiğit</authors>
+    <owners>Gökhan Yiğit</owners>
+    <projectUrl>https://github.com/gokhanyigit/FeedFrame</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Say hello!</description>
+    <copyright>Copyright 2022 Gökhan Yiğit</copyright>
+    <tags>Hello Service</tags>
+  </metadata>
+    <files>
+    <file src="bin\Release\HelloService.dll" exclude="bin\Release\*.dll.config" target="lib\net461\HelloService.dll" />
+  </files>
+</package>
